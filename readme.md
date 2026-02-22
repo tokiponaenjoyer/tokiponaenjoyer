@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Squigole</h1>
-<h3 align="center">A somewhat commited web developer</h3>
+<h3 align="center">A somewhat commited anything software developer</h3>
 
 - 🔭 I’m currently working on **a Minecraft mod** named Butcher's Delight: Rechopped
 
