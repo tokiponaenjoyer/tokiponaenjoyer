@@ -7,7 +7,7 @@
 
 <h3 align="center">Connect With Me</h3>
 <h5 align="center">
-<a href="https://stackoverflow.com/users/22425825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22425825" height="30" width="40" /></a> <a href="https://www.leetcode.com/thatdudesquigole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thatdudesquigole" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22425825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22425825" height="30" width="40" />Stack Overflow</a> <a href="https://www.leetcode.com/thatdudesquigole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thatdudesquigole" height="30" width="40" />Leetcode</a>
 </h5>
 
 <h3 align="center">Languages and Tools</h3>
