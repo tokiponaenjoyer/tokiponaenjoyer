@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">👋 Hi, I'm TokiPonaEnjoyer</h1>
-<h3 align="center">🧩 Hobbyist Programmer · Toki Pona enjoyer · Minecraft Modder</h3>
+<h3 align="center">Hobbyist Programmer · Toki Pona enjoyer · Minecraft Modder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TokiPonaEnjoyer&color=blueviolet&style=flat-square" alt="Profile views" />
@@ -11,7 +11,8 @@
 
 ---
 
-### 🧠 About Me  
+<h3 align="center"> 🧠 About Me </h3>
+
 - 🔭 Currently working on **Butcher's Delight: Rechopped**  
 - 🌱 Learning **Java & Neoforge for Minecraft 1.21.1**  
 - 🤝 Looking for help with **programming my mod**  
@@ -20,22 +21,18 @@
 
 ---
 
-### 🌐 Connect with Me  
-<p align="left">
-  <a href="https://stackoverflow.com/users/22425825/tokiponaenjoyer" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-  <a href="https://leetcode.com/u/tokiponaenjoyer/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://discord.gg/xyJEj6gUbP" target="_blank">
-    <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server"/>
-  </a>
-</p>
+<h3 align="center"> 🌐 Connect with Me </h3>
+<div align="center">
+
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22425825/tokiponaenjoyer)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tokiponaenjoyer/)
+[![Discord Server](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xyJEj6gUbP)
+
+</div>
 
 ---
 
-### 🛠️ Languages & Tools  
+<h3 align="center"> 🛠️ Languages & Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -70,9 +67,9 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TokiPonaEnjoyer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokiPonaEnjoyer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<h3 align="center"> 📊 GitHub Stats </h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TokiPonaEnjoyer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokiPonaEnjoyer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
+</div>
