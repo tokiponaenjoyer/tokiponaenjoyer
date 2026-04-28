@@ -1,16 +1,24 @@
-<h1 align="center">Hi 👋, I'm Squigole</h1>
-<h3 align="center">A somewhat commited anything software developer</h3>
+<h1 align="center">Hi 👋, I'm TokiPonaEnjoyer</h1>
+<h3 align="center">An enjoyer of Toki Pona, and a hobbyist programmer.</h3>
 
-- 🔭 I’m currently working on **a Minecraft mod** named Butcher's Delight: Rechopped
+- 🔭 I’m currently working on **Butcher's Delight: Rechopped**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java and Neoforge for 1.21.1 Minecraft**
 
-<h3 align="center">Connect With Me</h3>
-<h5 align="center">
-<a href="https://stackoverflow.com/users/22425825" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22425825" height="30" width="40" />Stack Overflow</a> <a href="https://www.leetcode.com/thatdudesquigole" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thatdudesquigole" height="30" width="40" />Leetcode</a>
-</h5>
+- 🤝 I’m looking for help with **programming my mod**
 
-<h3 align="center">Languages and Tools</h3>
+- 📫 How to reach me **DM me on discord, same username**
+
+- ⚡ Fun fact **Lambda Calculus is a programming language that only has functions**
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22425825/tokiponaenjoyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22425825/tokiponaenjoyer" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/tokiponaenjoyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tokiponaenjoyer/" height="30" width="40" /></a>
+<a href="https://discord.gg/discord.gg/xyJEj6gUbP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/xyJEj6gUbP" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools</h3>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
   <img width="12" />
