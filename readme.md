@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22425825/tokiponaenjoyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22425825/tokiponaenjoyer" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tokiponaenjoyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tokiponaenjoyer/" height="30" width="40" /></a>
-<a href="https://discord.gg/discord.gg/xyJEj6gUbP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/xyJEj6gUbP" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22425825/tokiponaenjoyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22425825/tokiponaenjoyer" height="30" width="40" />Stack Overflow</a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/tokiponaenjoyer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tokiponaenjoyer/" height="30" width="40" />Leetcode</a>
+<a href="https://discord.gg/discord.gg/xyJEj6gUbP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/xyJEj6gUbP" height="30" width="40" />My Discord Server</a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
@@ -82,6 +82,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thatdudesquigole&show_icons=true&locale=en" alt="thatdudesquigole" /></p>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/683882ed05a4e45df9ae25f4?variant=dark" alt="roadmap.sh"/></a>
