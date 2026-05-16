@@ -65,11 +65,3 @@
   <img src="https://img.shields.io/badge/CodePen-000000?style=flat-square&logo=codepen&logoColor=white" />
   <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" />
 </p>
-
----
-<h3 align="center"> 📊 GitHub Stats </h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TokiPonaEnjoyer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TokiPonaEnjoyer&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400" />
-</div>
